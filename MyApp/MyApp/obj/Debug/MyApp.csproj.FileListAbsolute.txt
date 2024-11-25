@@ -1,0 +1,10 @@
+C:\Users\harve\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\harve\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\harve\source\repos\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\harve\source\repos\MyApp\MyApp\bin\Debug\MyLibrary.dll
+C:\Users\harve\source\repos\MyApp\MyApp\bin\Debug\MyLibrary.pdb
+C:\Users\harve\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\harve\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\harve\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.Up2Date
+C:\Users\harve\source\repos\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\harve\source\repos\MyApp\MyApp\obj\Debug\MyApp.pdb
